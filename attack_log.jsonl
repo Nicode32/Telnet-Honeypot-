@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-05T06:20:20.764280+00:00", "event": "connection", "ip": "127.0.0.1", "port": 53103}
+{"timestamp": "2026-10-05T06:20:27.642536+00:00", "event": "login_attempt", "ip": "127.0.0.1", "username": "\u0001line\\\b", "password": "line"}
+{"timestamp": "2026-10-05T06:20:27.642536+00:00", "event": "command", "ip": "127.0.0.1", "command": ""}
+{"timestamp": "2026-10-05T06:25:01.091871+00:00", "event": "session_end", "ip": "127.0.0.1", "duration_seconds": 280.327591}
